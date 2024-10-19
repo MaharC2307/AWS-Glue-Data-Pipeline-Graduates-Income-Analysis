@@ -1,0 +1,73 @@
+﻿Educational qualification ,Field of study ,International Graduates,International Median income 2 years after graduation ,International Median income 5 years after graduation 
+"Career, technical or professional training certificate",Education,20,NA,NA
+"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",80,"30,000","32,100"
+"Career, technical or professional training certificate",Humanities,50,"15,800","26,100"
+"Career, technical or professional training certificate",Social and behavioural sciences and law,100,"41,700","48,400"
+"Career, technical or professional training certificate","Business, management and public administration",630,"40,900","45,400"
+"Career, technical or professional training certificate",Physical and life sciences and technologies,NA,NA,NA
+"Career, technical or professional training certificate","Mathematics, computer and information sciences",250,"48,600","61,600"
+"Career, technical or professional training certificate","Architecture, engineering, and related technologies",280,"41,700","49,300"
+"Career, technical or professional training certificate","Agriculture, natural resources and conservation",10,NA,NA
+"Career, technical or professional training certificate",Health and related fields,280,"36,400","41,700"
+"Career, technical or professional training certificate","Personal, protective and transportation services",170,"30,200","27,200"
+"Career, technical or professional training certificate",Other instructional programs,NA,NA,NA
+"Career, technical or professional training diploma",Education,10,NA,NA
+"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",340,"41,100","42,500"
+"Career, technical or professional training diploma",Humanities,240,"41,700","42,000"
+"Career, technical or professional training diploma",Social and behavioural sciences and law,740,"40,600","36,800"
+"Career, technical or professional training diploma","Business, management and public administration","4,020","40,100","38,500"
+"Career, technical or professional training diploma",Physical and life sciences and technologies,410,"41,700","51,300"
+"Career, technical or professional training diploma","Mathematics, computer and information sciences",950,"45,700","53,700"
+"Career, technical or professional training diploma","Architecture, engineering, and related technologies","2,800","48,200","54,000"
+"Career, technical or professional training diploma","Agriculture, natural resources and conservation",140,"41,900","49,100"
+"Career, technical or professional training diploma",Health and related fields,540,"45,200","48,300"
+"Career, technical or professional training diploma","Personal, protective and transportation services",430,"38,500","35,300"
+"Career, technical or professional training diploma",Other instructional programs,30,"50,300","49,300"
+Undergraduate degree ,Education,70,"52,500","58,000"
+Undergraduate degree ,"Visual and performing arts, and communications technologies",280,"39,200","39,600"
+Undergraduate degree ,Humanities,270,"37,500","44,800"
+Undergraduate degree ,Social and behavioural sciences and law,"1,540","39,000","44,700"
+Undergraduate degree ,"Business, management and public administration","2,560","45,600","53,800"
+Undergraduate degree ,Physical and life sciences and technologies,340,"39,800","54,900"
+Undergraduate degree ,"Mathematics, computer and information sciences",730,"58,400","79,300"
+Undergraduate degree ,"Architecture, engineering, and related technologies","1,170","66,100","78,900"
+Undergraduate degree ,"Agriculture, natural resources and conservation",140,"40,500","44,600"
+Undergraduate degree ,Health and related fields,180,"62,500","68,600"
+Undergraduate degree ,"Personal, protective and transportation services",10,NA,NA
+Undergraduate degree ,Other instructional programs,90,"45,200","60,800"
+Professional degree ,Education,NA,NA,NA
+Professional degree ,"Visual and performing arts, and communications technologies",NA,NA,NA
+Professional degree ,Humanities,NA,NA,NA
+Professional degree ,Social and behavioural sciences and law,50,"81,800","95,100"
+Professional degree ,"Business, management and public administration",NA,NA,NA
+Professional degree ,Physical and life sciences and technologies,NA,NA,NA
+Professional degree ,"Mathematics, computer and information sciences",NA,NA,NA
+Professional degree ,"Architecture, engineering, and related technologies",NA,NA,NA
+Professional degree ,"Agriculture, natural resources and conservation",NA,NA,NA
+Professional degree ,Health and related fields,10,NA,NA
+Professional degree ,"Personal, protective and transportation services",NA,NA,NA
+Professional degree ,Other instructional programs,NA,NA,NA
+Master's degree,Education,240,"38,700","43,400"
+Master's degree,"Visual and performing arts, and communications technologies",90,"42,400","50,400"
+Master's degree,Humanities,70,"40,900","53,400"
+Master's degree,Social and behavioural sciences and law,590,"49,100","64,000"
+Master's degree,"Business, management and public administration","2,180","61,700","80,800"
+Master's degree,Physical and life sciences and technologies,300,"50,700","60,700"
+Master's degree,"Mathematics, computer and information sciences",850,"81,000","105,600"
+Master's degree,"Architecture, engineering, and related technologies","2,690","63,000","84,100"
+Master's degree,"Agriculture, natural resources and conservation",160,"48,900","61,600"
+Master's degree,Health and related fields,180,"53,600","66,400"
+Master's degree,"Personal, protective and transportation services",NA,NA,NA
+Master's degree,Other instructional programs,20,NA,NA
+Doctoral degree,Education,20,"80,200","79,300"
+Doctoral degree,"Visual and performing arts, and communications technologies",10,NA,NA
+Doctoral degree,Humanities,20,"39,400","64,000"
+Doctoral degree,Social and behavioural sciences and law,80,"62,800","87,200"
+Doctoral degree,"Business, management and public administration",20,"81,000","101,800"
+Doctoral degree,Physical and life sciences and technologies,260,"54,500","78,100"
+Doctoral degree,"Mathematics, computer and information sciences",80,"88,400","129,800"
+Doctoral degree,"Architecture, engineering, and related technologies",490,"76,600","103,200"
+Doctoral degree,"Agriculture, natural resources and conservation",60,"52,800","73,200"
+Doctoral degree,Health and related fields,60,"53,600","63,700"
+Doctoral degree,"Personal, protective and transportation services",NA,NA,NA
+Doctoral degree,Other instructional programs,10,NA,NA
